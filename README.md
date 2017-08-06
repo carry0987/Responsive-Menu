@@ -2,4 +2,4 @@
 A very simple responsive menu
 
 ## Demo
-[Demo](https://carry0987.github.io/Responsive-Menu/)
+<a href="https://carry0987.github.io/Responsive-Menu/" target="_blank">Demo</a>
